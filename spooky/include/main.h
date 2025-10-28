@@ -6,6 +6,7 @@
 //include paths
 #include "api.h"
 #include "globals.hpp"
+#include "pid.hpp"
 
 //namespace
 using namespace pros;
